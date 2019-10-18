@@ -18,4 +18,5 @@ int main ()
     printf("%.2f to the power of %.2f is %.2f \n", a, b, pow(a,b)); //displaying a to the power of b
     printf("Square root of %.2f is %.2f \n", a, sqrt(a)); //Displaying square root of a
     printf("Square root of %.2f is %.2f \n", b, sqrt(b)); //Displaying square root of b
+    return 0;
 }
